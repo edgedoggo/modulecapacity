@@ -1,0 +1,26 @@
+{
+  "name": "modulecapacity",
+  "title": "Module Capacity Relable for Ships",
+  "description": "A module to override character sheet Creature Capacity label, and replace it with Module Capacity.",
+  "authors": [
+    {
+      "name": "knoself",
+      "discord": "knoself"
+    }
+  ],
+  "version": "0.1",
+  "minimumCoreVersion": "10.0",
+  "compatibleCoreVersion": "10",
+  "manifest": "https://github.com/edgedoggo/modulecapacity/releases/download/latest/module.json",
+  "download": "https://github.com/edgedoggo/modulecapacity/releases/download/latest/custom-checks.zip",
+  "socket": true,
+  "esmodules": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
+
